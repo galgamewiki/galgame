@@ -4,6 +4,8 @@
 
 # 视觉小说艺术：Galgame 完全入门指南
 
+详细介绍：https://galgamewiki.github.io/galgame/
+
 ## 目录
 1. [什么是 Galgame](#什么是-galgame)
 2. [发展简史](#发展简史)
